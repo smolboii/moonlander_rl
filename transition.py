@@ -5,4 +5,4 @@ class Transition:
         self.action = action
         self.new_state = new_state
         self.reward = reward
-        self.done = state
+        self.done = done
